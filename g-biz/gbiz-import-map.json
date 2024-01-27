@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "@kucoin-biz/404": "https://assets.staticimg.com/g-biz/externals/2022-06-01/404.10b72fed.js",
+    "@kucoin-biz/ada": "https://assets.staticimg.com/g-biz/externals/2022-06-01/ada.ebe2e3a3.js",
+    "@kucoin-biz/captcha": "https://assets.staticimg.com/g-biz/externals/2022-06-01/captcha.52a0c281.js",
+    "@kucoin-biz/cms": "https://assets.staticimg.com/g-biz/externals/2022-06-01/cms.5dc4c13b.js",
+    "@kucoin-biz/common-base": "https://assets.staticimg.com/g-biz/externals/2022-06-01/common-base.8f41c518.js",
+    "@kucoin-biz/download": "https://assets.staticimg.com/g-biz/externals/2022-06-01/download.4c8a851b.js",
+    "@kucoin-biz/entrance": "https://assets.staticimg.com/g-biz/externals/2022-06-01/entrance.7607648c.js",
+    "@kucoin-biz/extensionDetector": "https://assets.staticimg.com/g-biz/externals/2022-06-01/extensionDetector.be21c1c1.js",
+    "@kucoin-biz/footer": "https://assets.staticimg.com/g-biz/externals/2022-06-01/footer.36cba0a6.js",
+    "@kucoin-biz/gps": "https://assets.staticimg.com/g-biz/externals/2022-06-01/gps.530a97bc.js",
+    "@kucoin-biz/header": "https://assets.staticimg.com/g-biz/externals/2022-06-01/header.93d9c141.js",
+    "@kucoin-biz/kyc": "https://assets.staticimg.com/g-biz/externals/2022-06-01/kyc.06b5c9cc.js",
+    "@kucoin-biz/notice-center": "https://assets.staticimg.com/g-biz/externals/2022-06-01/notice-center.85061fa1.js",
+    "@kucoin-biz/undefined": "https://assets.staticimg.com/g-biz/externals/2022-06-01/remote-app.css",
+    "@kucoin-biz/security": "https://assets.staticimg.com/g-biz/externals/2022-06-01/security.e5b3c124.js",
+    "@kucoin-biz/sentry": "https://assets.staticimg.com/g-biz/externals/2022-06-01/sentry.a1b8065c.js",
+    "@kucoin-biz/seo": "https://assets.staticimg.com/g-biz/externals/2022-06-01/seo.e969117b.js",
+    "@kucoin-biz/share": "https://assets.staticimg.com/g-biz/externals/2022-06-01/share.793493ce.js",
+    "@kucoin-biz/tools": "https://assets.staticimg.com/g-biz/externals/2022-06-01/tools.cfb8b384.js",
+    "@kucoin-biz/userRestricted": "https://assets.staticimg.com/g-biz/externals/2022-06-01/userRestricted.be74ce9b.js",
+    "@kucoin-biz/utm-link": "https://assets.staticimg.com/g-biz/externals/2022-06-01/utm-link.731f21ed.js"
+  }
+}

@@ -1,0 +1,144 @@
+Uri: https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\npm\@emailjs\browser@3\dist\email.min.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/
+File Name: C:\Downloaded Web Sites\kucoinearn.live\index.htm
+Content Type: text/html
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms-static/c_cms.common_en_US2671.css?t=1693810
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms-static\c_cms.common_en_US2671.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms-static/c_com.community_en_US2671.css?t=1693810
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms-static\c_com.community_en_US2671.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms-static/c_com.index.body.bottom_en_US2671.css?t=1693810
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms-static\c_com.index.body.bottom_en_US2671.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms-static/c_com.seo.land.c2c_en_US2671.css?t=1693810
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms-static\c_com.seo.land.c2c_en_US2671.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms-static/c_com.seo.land.tradingbot_en_US2671.css?t=1693810
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms-static\c_com.seo.land.tradingbot_en_US2671.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/cms/media/7AV75b9jzr9S8H3eNuOuoqj8PwdUjaDQGKGczGqTS.png
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\cms\media\7AV75b9jzr9S8H3eNuOuoqj8PwdUjaDQGKGczGqTS.png
+Content Type: image/png
+
+Uri: https://kucoinearn.live/assets.staticimg.com/index.html
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\index.html.htm
+Content Type: text/html
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kufox\mui@2.5.14\umd\kufox-mui.umd.min.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kux/font/css.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kux\font\css.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kux\font\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kux\font\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kux\font\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/%40kux/font/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\@kux\font\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/anomaly/anomaly.min.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\anomaly\anomaly.min.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/anomaly/style.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\anomaly\style.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/fontsGoogleapis/googleapis.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\fontsGoogleapis\googleapis.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/sentry/7.52.1/sentry-loader.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\sentry\7.52.1\sentry-loader.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/systemjs%406.14.1/dist/extras/amd.min.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\systemjs@6.14.1\dist\extras\amd.min.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/assets.staticimg.com/natasha/npm/systemjs%406.14.1/dist/system.min.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\natasha\npm\systemjs@6.14.1\dist\system.min.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/assets.staticimg.com/ucenter-web/1.1.1/css/1717.fd374f.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\ucenter-web\1.1.1\css\1717.fd374f.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/ucenter-web/1.1.1/css/app.1af092.css
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\ucenter-web\1.1.1\css\app.1af092.css
+Content Type: text/css
+
+Uri: https://kucoinearn.live/assets.staticimg.com/ucenter-web/1.1.1/media/315c6ff7c4aedb66fc7e.png
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\ucenter-web\1.1.1\media\315c6ff7c4aedb66fc7e.png
+Content Type: image/png
+
+Uri: https://kucoinearn.live/assets.staticimg.com/ucenter-web/1.1.1/media/f4e865e4f1289c74c3d1.png
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\ucenter-web\1.1.1\media\f4e865e4f1289c74c3d1.png
+Content Type: image/png
+
+Uri: https://kucoinearn.live/assets.staticimg.com/ucenter-web/1.1.1/static/locales/en_US.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\ucenter-web\1.1.1\static\locales\en_US.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/assets.staticimg.com/web-domain-relation/boot.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\assets.staticimg.com\web-domain-relation\boot.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/favicon.png
+File Name: C:\Downloaded Web Sites\kucoinearn.live\favicon.png
+Content Type: image/png
+
+Uri: https://kucoinearn.live/https/https/https/www.googletagmanager.com
+File Name: C:\Downloaded Web Sites\kucoinearn.live\https\https\https\www.googletagmanager.com
+Content Type: application/x-msdownload
+
+Uri: https://kucoinearn.live/https/https/www.googletagmanager.html
+File Name: C:\Downloaded Web Sites\kucoinearn.live\https\https\www.googletagmanager.html.htm
+Content Type: text/html
+
+Uri: https://kucoinearn.live/https/www.googletagmanager.html
+File Name: C:\Downloaded Web Sites\kucoinearn.live\https\www.googletagmanager.html.htm
+Content Type: text/html
+
+Uri: https://kucoinearn.live/jquery.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\jquery.js
+Content Type: application/javascript
+
+Uri: https://kucoinearn.live/signin.html
+File Name: C:\Downloaded Web Sites\kucoinearn.live\signin.html.htm
+Content Type: text/html
+
+Uri: https://smtpjs.com/v3/smtp.js
+File Name: C:\Downloaded Web Sites\kucoinearn.live\v3\smtp.js
+Content Type: application/javascript
+
+Uri: https://www.kucoin.com/g-biz/gbiz-import-map.json
+File Name: C:\Downloaded Web Sites\kucoinearn.live\g-biz\gbiz-import-map.json
+Content Type: application/json
+
+Uri: https://www.kucoin.com/kucoin-base-web/import-map.json
+File Name: C:\Downloaded Web Sites\kucoinearn.live\kucoin-base-web\import-map.json
+Content Type: application/json
+
